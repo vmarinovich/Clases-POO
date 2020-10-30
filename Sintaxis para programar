@@ -1,0 +1,27 @@
+SINTASIS
+
+Como crear un  objeto general en diferentes tipo de programación
+
+Clase + atributo + función
+
+// PARA JAVA incluye clase (corresponde a objeto)
+class Person {
+	String name = "";
+	void walk() {}
+	}
+
+// PARA PYTHON
+class Person:
+    name = "";
+    def walk():
+
+ //PARA JAVASCRIPT
+class Person:
+    name = "";
+    def walk():
+
+// PARA PHP
+class person {
+    $name ="";
+    function walk(){}
+}
