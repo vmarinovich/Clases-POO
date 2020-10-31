@@ -1,0 +1,12 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.home": "Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home",
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "java.codeGeneration.generateComments": true,
+    "java.codeGeneration.hashCodeEquals.useJava7Objects": true,
+    "java.codeGeneration.useBlocks": true,
+    "java.implementationsCodeLens.enabled": true,
+    "java.import.gradle.offline.enabled": true,
+    "java.maven.downloadSources": true
+}

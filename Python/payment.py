@@ -1,0 +1,3 @@
+class payment:
+    identifier = int
+    

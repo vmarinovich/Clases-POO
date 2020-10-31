@@ -1,0 +1,50 @@
+//JAVA 
+person person = new Person();
+
+//Python
+persona = Person()
+
+// JavaScript
+var person = new Person();
+
+// PHP
+$person = new Person();
+_________________________________
+// Ejemplo con funciones
+//JAVA 
+public Person(String Name){
+    this.name = name;
+}
+
+//Python
+def__init__(self.name):
+    self.name = name
+
+// JavaScript
+function Person(name){
+    this.name = name
+}
+
+// PHP
+public function_construct($name){
+    $this->name = name;
+}
+
+
+// como vamos a llamar al objeto
+
+//Java
+person person = new
+    Person("Ann")
+
+// Python
+person = Person("Ann")    
+
+// JavaScript
+var person = new
+    Person("Ann")
+
+    
+
+// PHP
+$person = new Person("Ann")
